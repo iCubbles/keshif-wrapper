@@ -1,0 +1,45 @@
+{
+    "name": "keshif",
+    "groupId": "",
+    "version": "1.1.1",
+    "modelVersion": "9.1.0",
+    "docType": "webpackage",
+    "author": {
+        "name": "Judit Ross",
+        "email": "judit.ross@incowia.com"
+    },
+    "license": "MIT",
+    "homepage": "https://github.com/adilyalcin/Keshif",
+    "keywords": [
+        "library",
+        "keshif",
+        "3rd-party"
+    ],
+    "man": [],
+    "runnables": [],
+    "artifacts": {
+        "utilities": [
+            {
+                "artifactId": "keshif",
+                "description": "Data made explorable by all. Modified (bugfixed) version, based on keshif version 0.6",
+                "resources": [
+                    "vendor/keshif.html"
+                ],
+                "dependencies": [
+                    {
+                        "webpackageId": "jquery-1.11.1@1.1.0",
+                        "artifactId": "jquery"
+                    },
+                    {
+                        "webpackageId": "d3-3.5.3@1.1.0",
+                        "artifactId": "d3"
+                    },
+                    {
+                        "webpackageId": "papaparse-4.1.0@1.1.0",
+                        "artifactId": "papaparse"
+                    }
+                ]
+            }
+        ]
+    }
+}
