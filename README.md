@@ -1,4 +1,7 @@
 ## keshif-wrapper
 
 <hr/>
-Note This page is generated based on the markdown-syntax. For details see <http://daringfireball.net/projects/markdown/syntax/>
+keshif wrapper for usage in cubbles.  
+
+      Keshif is a web-based tool that lets you browse and understand datasets easily.
+      See: [keshif](http://keshif.me/) or (keshif on GitHub)[https://github.com/adilyalcin/Keshif]
